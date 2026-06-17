@@ -1,0 +1,32 @@
+[
+    {
+        "time": "2026-06-17 12:52:43",
+        "file": "C:/Users/Grezin/Desktop/Спутник тест/Скриншот 1.jpg",
+        "class": "River",
+        "confidence": 99.9719
+    },
+    {
+        "time": "2026-06-17 12:53:05",
+        "file": "Скриншот 2.jpg",
+        "class": "Residential",
+        "confidence": 99.91
+    },
+    {
+        "time": "2026-06-17 12:53:12",
+        "file": "Скриншот 3.jpg",
+        "class": "PermanentCrop",
+        "confidence": 99.97
+    },
+    {
+        "time": "2026-06-17 12:53:20",
+        "file": "Скриншот 4.jpg",
+        "class": "Industrial",
+        "confidence": 100.0
+    },
+    {
+        "time": "2026-06-17 12:53:28",
+        "file": "Скриншот 5.jpg",
+        "class": "Highway",
+        "confidence": 100.0
+    }
+]
